@@ -1,7 +1,7 @@
 public class Read7Main {
 
     /**
-     * Make a read7() in java, that return 7 character from given string
+     * Make a read7() in java, that slices a given string by 7 character
      * @param input
      * @return
      */
